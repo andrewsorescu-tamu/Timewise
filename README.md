@@ -1,3 +1,5 @@
+*This entire repository is NEW WORK since my last submission*
+
 This repository contains everything I have coded related to an app I am working with some of the other members of Cohort 1 of Aggies in TECH. We are coding this app for BUSN 489, otherwise known as the “Building a Platform” class. This class focuses on developing mobile applications with Swift and xCode.
 
 Here is an overview of all the files in the ‘Timewise’ xCode project I created:
