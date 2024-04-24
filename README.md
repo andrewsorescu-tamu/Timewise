@@ -8,7 +8,7 @@ Here is an overview of all the files in the ‘Timewise’ xCode project I creat
   
 - ‘TaskManager.swift’: Defines the array which holds a list of tasks and the array which holds a list of categories. Also defines the functions which automatically add tasks and categories to the array whenever the user inputs the information for a new task or category
   
-- ‘ContentView.swift’: A content view file that creates a screen that allows the user to input the details about a task (its name, category, due date, and expected duration). The content view file is not integrated with the rest of the files. It simply exists as an outline of what the “task addition” screen will eventually look like and how it will eventually be interacted with. 
+- ‘ContentView.swift’: A content view file that creates a screen that allows the user to input the details about a task (its name, category, due date, and expected duration). This particular content view file is not integrated with the rest of the files. It simply exists as an outline of what the “task addition” screen will eventually look like and how it will eventually be interacted with. 
 
 Finally, I included a screenshot of the aforementioned screen in the repository.
 
